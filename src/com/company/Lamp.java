@@ -37,8 +37,8 @@ public class Lamp {
         id = 0;
         power = 10;
         colourTemperature = 3000;
-        base = "E27";
-        brandName = "ecola";
+        base = "E14";
+        brandName = "Philips";
         typeLamp = "Светодиодная";
         color = Color.white;
     }
